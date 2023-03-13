@@ -1,0 +1,10 @@
+package Demo;
+
+public class Leaf implements Turner {
+
+  public void turn(){
+        System.out.println("Leaf: Changing Colors");
+        System.out.println();
+    }
+    
+}
